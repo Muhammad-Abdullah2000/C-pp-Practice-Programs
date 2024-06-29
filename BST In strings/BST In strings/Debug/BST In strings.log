@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\IDE programs\C++ Programs\BST In strings\BST In strings\Source.cpp(24,24): warning C4553: '==': result of expression not used; did you intend '='?
+E:\IDE programs\C++ Programs\BST In strings\BST In strings\Source.cpp(25,9): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\IDE programs\C++ Programs\BST In strings\BST In strings\Source.cpp(52,13): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\IDE programs\C++ Programs\BST In strings\BST In strings\Source.cpp(103): fatal error C1075: '{': no matching token found
